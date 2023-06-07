@@ -1,0 +1,27 @@
+GS.dataCache['665F7EFC4091674CD6383D3829AD031A9CCC'] = {
+    "uid": "665F7EFC4091674CD6383D3829AD031A9CCC",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Message Box",
+        "type": "data_record",
+        "order": 5,
+        "category": "commonEvents",
+        "isFolder": true,
+        "parentId": "2DBD3BDA80DF8343F59AC51715E85B6F54DB",
+        "data": {
+            "name": "Message Box",
+            "isFolder": true,
+            "index": "665F7EFC4091674CD6383D3829AD031A9CCC",
+            "defaultExpressionId": "BF7CB12110894142C299D341A545C910AA86"
+        },
+        "id": "665F7EFC4091674CD6383D3829AD031A9CCC",
+        "localizableStrings": {}
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

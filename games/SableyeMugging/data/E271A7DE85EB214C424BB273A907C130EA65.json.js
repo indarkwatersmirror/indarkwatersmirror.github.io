@@ -1,0 +1,31 @@
+GS.dataCache['E271A7DE85EB214C424BB273A907C130EA65'] = {
+    "uid": "E271A7DE85EB214C424BB273A907C130EA65",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Japanese",
+        "type": "language_profile",
+        "code": "jp",
+        "icon": {
+            "name": "Japan.png",
+            "hue": 0,
+            "opacity": 255,
+            "blending": 0,
+            "tone": {
+                "red": 0,
+                "green": 0,
+                "blue": 0
+            },
+            "folderPath": "Graphics/Icons"
+        },
+        "bundleUid": "02A910427AB1B34A6B9A7450147ACDA683AD",
+        "customStringsUid": "D8B0A3207AC155411109D370F9C195063F6D",
+        "writingDirection": 0,
+        "wordWrap": "japanese"
+    },
+    "summary": [
+        "name",
+        "type"
+    ],
+    "externalItems": []
+}

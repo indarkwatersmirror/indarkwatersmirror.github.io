@@ -1,0 +1,91 @@
+		body {
+		  background-color:#00122b;
+		  background-image:url(WaterTop.jpg),url(WaterMiddle.png);
+		  background-position:center top,center bottom;
+		  background-size:70%, 70%;
+		  background-repeat:no-repeat,repeat-y;
+		}
+		#header {
+		  background-color:#ffffff;
+		  position:absolute;
+		  left:0px;
+		  top:0px;
+		  width:100%;
+		  height:38px;
+		  background-image:url(Header.png);
+		  padding-top: 2px;
+		  text-align: center;
+		  
+		  white-space: nowrap;
+		}
+		#headerText, #headerText a{
+		  text-decoration: none;
+		  padding-top:2px;
+		  padding-left:20px;
+		  padding-right:20px;
+		  position:relative;
+		  font-family: Sans-serif;
+		  font-size:24px;
+		  color: #fff;
+	      text-shadow: 1px 2px 2px #7e591e, -1px -2px 2px #e1c47d;
+		  
+		  display: inline-block;
+		  vertical-align: top;
+		  white-space: normal;
+		}
+		#headerText:hover { 
+		  background-color: #efe9db;
+		  cursor: pointer;
+		  background-image:url(HeaderShine.png);
+		  background-position:center bottom;
+		  background-repeat:no-repeat;
+		}
+		#divider {
+		  display: inline-block;
+		  vertical-align: top;
+		  white-space: normal;		
+		}
+		#banner {
+		  position:absolute;
+		  top:40px;
+		}
+		#news {
+		  position:absolute;
+		  left:20px;
+		  top:60px;
+		  background-color: #fff;
+		  width:350px;
+		}
+		#counter {
+		  padding-top:2px;
+		  padding-right:5px;
+		  float:right;
+		  display: inline-block;
+		  vertical-align: top;
+		  white-space: normal;
+		}
+		#gametable {
+			position: absolute;
+			top:100px;
+			left:0px;
+			width:100%;
+			
+			text-shadow: 1px 1px #fff, 1px 0px #fff, 1px -1px #fff, 0px 1px #fff, 0px -1px #fff, -1px 1px #fff, -1px 0px #fff, -1px -1px #fff;
+		}
+		#gamedesc {
+			margin: auto;
+			margin-top:100px;
+			background-color:#ccc;
+			min-width:500px;
+			width:80%;
+			min-height:80%;
+		}
+		#AgeCheck {
+			margin: auto;
+			margin-top:100px;
+			background-color:#ccc;
+			min-width:500px;
+			width:80%;
+			min-height:80%;
+			text-align:center;
+		}

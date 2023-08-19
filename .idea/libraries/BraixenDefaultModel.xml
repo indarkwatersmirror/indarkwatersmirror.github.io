@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BraixenDefaultModel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BraixenCreator/resources/Live2D/BraixenDefaultModel.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

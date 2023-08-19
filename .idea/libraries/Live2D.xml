@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Live2D">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/games/SableyeMugging/resources/Live2D/SableyeModel.model.zip!/" />
+      <root url="jar://$PROJECT_DIR$/games/SableyeMugging/resources/Live2D/StageButtons.model.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

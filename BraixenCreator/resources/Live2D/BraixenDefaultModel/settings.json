@@ -1,0 +1,79 @@
+{
+    "version": "Sample 1.0.0",
+    "model": "BraixenDefaultModel.moc",
+    "textures": [
+        "texture_00.png",
+        "texture_01.png",
+        "texture_02.png",
+        "texture_03.png",
+        "texture_04.png",
+        "texture_05.png",
+        "texture_06.png",
+        "texture_07.png",
+        "texture_08.png"
+    ],
+    "motions": {
+        "": [
+            {
+                "file": "000-Idle.mtn"
+            },
+            {
+                "file": "001-HeadWonder.mtn"
+            },
+            {
+                "file": "002-HeadHappy.mtn"
+            },
+            {
+                "file": "003-BodyWonder.mtn"
+            },
+            {
+                "file": "004-Happy.mtn"
+            },
+            {
+                "file": "005-Uncensor.mtn"
+            },
+            {
+                "file": "006-IdleU.mtn"
+            },
+            {
+                "file": "007-IdleAwkward.mtn"
+            },
+            {
+                "file": "008-PetHead.mtn"
+            },
+            {
+                "file": "009-PetHeadU.mtn"
+            },
+            {
+                "file": "010-Touching.mtn"
+            },
+            {
+                "file": "011-Aroused.mtn"
+            },
+            {
+                "file": "012-Helping.mtn"
+            },
+            {
+                "file": "013-HelpingFast.mtn"
+            },
+            {
+                "file": "014-Climax.mtn"
+            },
+            {
+                "file": "015-IdleAfter.mtn"
+            },
+            {
+                "file": "016-Posing01.mtn"
+            },
+            {
+                "file": "017-Posing02.mtn"
+            },
+            {
+                "file": "018-Posing03.mtn"
+            }
+        ]
+    },
+    "project_settings": "BraixenDefaultModel.settings.json",
+    "name": "BraixenDefaultModel",
+    "physics": null
+}

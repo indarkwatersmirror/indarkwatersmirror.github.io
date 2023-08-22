@@ -1,0 +1,52 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "AnimatedHeart",
+	"model": "HeartAnimation.moc",
+	"motions":{
+		"idle":[
+			{
+				"file":"motions/HeartBeatV0.mtn"
+			}
+		],
+		"null":[
+
+			{
+				"file":"motions/HeartBeatV0.mtn"
+			},
+			{
+				"file":"motions/HeartBeatV1.mtn"
+			},
+			{
+				"file":"motions/HeartBeatV2.mtn"
+			},
+			{
+				"file":"motions/HeartBeatV3.mtn"
+			},
+			{
+				"file":"motions/HeartInvisible.mtn"
+			},
+			{
+				"file":"motions/HeartInvisibleOff.mtn"
+			},
+			{
+				"file":"motions/HeartUpgradeLv1.mtn"
+			},
+			{
+				"file":"motions/HeartUpgradeLv2.mtn"
+			},
+			{
+				"file":"motions/HeartUpgradeLv3.mtn"
+			},
+			{
+				"file":"motions/HeartUpgradeLv4.mtn"
+			},
+			{
+				"file":"motions/HeartUpgradeLv5.mtn"
+			}
+
+		]
+	},
+	"textures": [
+		"HeartAnimation.1024/texture_00.png"
+	]
+}

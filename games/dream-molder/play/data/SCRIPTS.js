@@ -14,7 +14,8 @@ if (!window.$PARAMS) { window.$PARAMS = {} };Object.mixin(window.$PARAMS, {
     "fontFamilies": [
         "Rubik-Regular",
         "Tallys"
-    ]
+    ],
+    "needsPreparation": true
 });
 
 
